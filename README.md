@@ -1,2 +1,2 @@
-# Hackerearth_DL_competition
-Repository for hackerearth DeepLearning Competition about recognising the dance form...
+# Facial_expression_Recognition
+Repository containing necessary files for face recognition system  
